@@ -1,1 +1,0 @@
-/home/michal/Programowanie/ooc/ooc.vim/syntax/ooc.vim
