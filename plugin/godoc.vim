@@ -1,0 +1,1 @@
+/home/michal/Programowanie/go/goroot/misc/vim/plugin/godoc.vim
