@@ -1,1 +1,1 @@
-/home/michal/Programowanie/go/goroot/misc/vim/syntax/go.vim
+../../Programowanie/go/goroot/misc/vim/syntax/go.vim

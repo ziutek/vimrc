@@ -1,1 +1,1 @@
-/home/michal/Programowanie/go/goroot/misc/vim/plugin/godoc.vim
+../../Programowanie/go/goroot/misc/vim/plugin/godoc.vim
