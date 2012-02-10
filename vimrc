@@ -6,4 +6,4 @@ set mouse=a
 set mousemodel=extend
 noremap <CR><CR> :update<CR>
 map ; :
-noremap ;; ;
+"noremap ;; ;
