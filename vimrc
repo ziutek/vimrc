@@ -6,4 +6,4 @@ set mouse=a
 set mousemodel=extend
 set autochdir
 noremap <CR><CR> :update<CR>
-noremap <TAB><TAB> :make<CR>
+noremap <TAB><TAB> :update<CR>:make<CR>
