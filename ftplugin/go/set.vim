@@ -12,9 +12,9 @@ imap <F9> func
 imap <F11> else
 imap <F12> range
 
-imap <S-F2> default
-imap <S-F3> switch
-imap <S-F4> break
+imap <Esc>O1;2Q default
+imap <Esc>O1;2R switch
+imap <Esc>O1;2S break
 imap <S-F5> byte
 imap <S-F6> make
 
