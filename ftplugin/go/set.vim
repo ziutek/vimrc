@@ -18,8 +18,8 @@ imap <S-F4> break
 imap <S-F5> byte
 imap <S-F6> make
 
-imap <S-F7> const
+imap <S-F7> package
 imap <S-F8> defer
-imap <S-F9> break
+imap <S-F9> const
 imap <S-F11> select
 imap <S-F12> fallthrough
