@@ -7,3 +7,8 @@ set mousemodel=extend
 set autochdir
 noremap <CR><CR> :update<CR>
 noremap <TAB><TAB> :update<CR>:make<CR>
+
+inoremap {      {}<Left>
+inoremap {<CR>  {<CR>}<Esc>O
+inoremap {{     {
+inoremap {}     {}
