@@ -8,7 +8,10 @@ set autochdir
 noremap <CR><CR> :update<CR>
 noremap <TAB><TAB> :update<CR>:make<CR>
 
-inoremap {      {}<Left>
+set guioptions-=m
+set guioptions-=T
+set guioptions-=r
+set guifont=Monospace\ 8
+set mousefocus
+
 inoremap {<CR>  {<CR>}<Esc>O
-inoremap {{     {
-inoremap {}     {}
