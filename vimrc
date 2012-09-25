@@ -7,11 +7,15 @@ set mousemodel=extend
 set autochdir
 noremap <CR><CR> :update<CR>
 noremap <TAB><TAB> :update<CR>:make<CR>
+set encoding=utf8
 
 set guioptions-=m
 set guioptions-=T
 set guioptions-=r
-set guifont=Monospace\ 8
+set guioptions-=l
+set guioptions-=f
+set guiheadroom=0
 set mousefocus
+set guifont=Fixed\ Medium\ Semi-Condensed\ 10,Inconsolata\ Medium\ 9
 
 inoremap {<CR>  {<CR>}<Esc>O
