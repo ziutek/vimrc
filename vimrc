@@ -23,3 +23,4 @@ highlight String guifg=#cc1111  ctermfg=DarkRed
 "highlight Statement guifg=#aa5500 ctermfg=Brown
 
 inoremap {<CR>  {<CR>}<Esc>O
+inoremap (<CR>  (<CR>)<Esc>O
