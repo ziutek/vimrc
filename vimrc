@@ -24,3 +24,5 @@ highlight String guifg=#cc1111  ctermfg=DarkRed
 
 inoremap {<CR>  {<CR>}<Esc>O
 inoremap (<CR>  (<CR>)<Esc>O
+
+set noerrorbells visualbell
