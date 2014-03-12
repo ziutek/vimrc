@@ -1,1 +1,1 @@
-../../Programowanie/go/goroot/misc/vim/indent/go.vim
+../../P/go/goroot/misc/vim/indent/go.vim

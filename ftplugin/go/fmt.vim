@@ -1,1 +1,1 @@
-../../../Programowanie/go/goroot/misc/vim/ftplugin/go/fmt.vim
+../../../P/go/goroot/misc/vim/ftplugin/go/fmt.vim

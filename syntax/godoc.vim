@@ -1,1 +1,0 @@
-../../Programowanie/go/goroot/misc/vim/syntax/godoc.vim

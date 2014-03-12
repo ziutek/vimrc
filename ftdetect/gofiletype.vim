@@ -1,1 +1,1 @@
-../../Programowanie/go/goroot/misc/vim/ftdetect/gofiletype.vim
+../../P/go/goroot/misc/vim/ftdetect/gofiletype.vim
